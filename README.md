@@ -16,6 +16,10 @@
 
 サンプルコードの解説は本書籍をご覧ください。
 
+**2024/07/16追記**
+
+原著のコードがclapのv4に対応したものに更新されているので、clap v2のコードは、原著リポジトリの[clap_v2ブランチ](https://github.com/kyclark/command-line-rust/tree/clap_v2)を参照してください。
+
 ----
 
 
